@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-#3776AB?&style=for-the-badge&logo=Python&logoColor=white">
 </div>
-#### I've used it before.
+
+#### I've used it before
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="R" src ="https://img.shields.io/badge/R-#276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   <img alt="R" src ="https://img.shields.io/badge/tensorflow-#FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
