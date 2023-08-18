@@ -33,5 +33,5 @@
 <br />
 <br />
 
-***Thank you "startupcode yaro" for providing the markdown foramt!***
+***Thank you "startupcode yaro" for providing the markdown format!*** <br />
 Copyright ⓒ startupcode yaro
